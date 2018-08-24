@@ -1,0 +1,16 @@
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Web.API\bin\Debug\netcoreapp2.1\SeedAPI.Web.API.deps.json
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Web.API\bin\Debug\netcoreapp2.1\SeedAPI.Web.API.runtimeconfig.json
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Web.API\bin\Debug\netcoreapp2.1\SeedAPI.Web.API.runtimeconfig.dev.json
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Web.API\bin\Debug\netcoreapp2.1\SeedAPI.Web.API.dll
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Web.API\obj\Debug\netcoreapp2.1\SeedAPI.Web.API.csprojAssemblyReference.cache
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Web.API\obj\Debug\netcoreapp2.1\SeedAPI.Web.API.csproj.CoreCompileInputs.cache
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Web.API\obj\Debug\netcoreapp2.1\SeedAPI.Web.API.RazorAssemblyInfo.cache
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Web.API\obj\Debug\netcoreapp2.1\SeedAPI.Web.API.RazorAssemblyInfo.cs
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Web.API\obj\Debug\netcoreapp2.1\SeedAPI.Web.API.AssemblyInfoInputs.cache
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Web.API\obj\Debug\netcoreapp2.1\SeedAPI.Web.API.AssemblyInfo.cs
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Web.API\obj\Debug\netcoreapp2.1\SeedAPI.Web.API.RazorTargetAssemblyInfo.cache
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Web.API\bin\Debug\netcoreapp2.1\SeedAPI.Web.API.pdb
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Web.API\obj\Debug\netcoreapp2.1\SeedAPI.Web.API.dll
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Web.API\obj\Debug\netcoreapp2.1\SeedAPI.Web.API.pdb
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Web.API\bin\Debug\netcoreapp2.1\SeedAPI.Interfaces.dll
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Web.API\bin\Debug\netcoreapp2.1\SeedAPI.ViewModels.dll

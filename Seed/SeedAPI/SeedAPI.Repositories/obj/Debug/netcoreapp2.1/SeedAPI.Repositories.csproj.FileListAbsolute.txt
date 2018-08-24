@@ -1,0 +1,5 @@
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Repositories\bin\Debug\netcoreapp2.1\SeedAPI.Repositories.deps.json
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Repositories\bin\Debug\netcoreapp2.1\SeedAPI.Repositories.dll
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Repositories\obj\Debug\netcoreapp2.1\SeedAPI.Repositories.csproj.CoreCompileInputs.cache
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Repositories\obj\Debug\netcoreapp2.1\SeedAPI.Repositories.AssemblyInfoInputs.cache
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Repositories\obj\Debug\netcoreapp2.1\SeedAPI.Repositories.AssemblyInfo.cs

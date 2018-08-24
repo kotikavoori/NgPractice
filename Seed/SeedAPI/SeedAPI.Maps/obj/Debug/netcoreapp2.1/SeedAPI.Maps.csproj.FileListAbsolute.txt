@@ -1,0 +1,6 @@
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Maps\bin\Debug\netcoreapp2.1\SeedAPI.Maps.deps.json
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Maps\bin\Debug\netcoreapp2.1\SeedAPI.Maps.dll
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Maps\obj\Debug\netcoreapp2.1\SeedAPI.Maps.csproj.CoreCompileInputs.cache
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Maps\obj\Debug\netcoreapp2.1\SeedAPI.Maps.AssemblyInfoInputs.cache
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Maps\obj\Debug\netcoreapp2.1\SeedAPI.Maps.AssemblyInfo.cs
+D:\Work\PlayGround\NG\Seed\SeedAPI\SeedAPI.Maps\obj\Debug\netcoreapp2.1\SeedAPI.Maps.csprojAssemblyReference.cache
